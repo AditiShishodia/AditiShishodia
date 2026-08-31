@@ -3,7 +3,7 @@ Programmatic & Performance Marketing Specialist<br><br>Tools: DV360 • Google A
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditi-shishodia-6751712b1/)(https://mastodon.social/@Aditi Shishodia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditishishodia6@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditi-shishodia-6751712b1/)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AditiShishodia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AditiShishodia&theme=dark&hide_border=false)<br/>
